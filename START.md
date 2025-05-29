@@ -33,7 +33,7 @@ Git i GitHub su ključni alati za verzioniranje i kolaboraciju na projektima.
 
 ### Koraci:
 1. 🔧 Instaliraj Git: [Download Git](https://git-scm.com/downloads/win)
-2. 🧑‍💻 Napravi GitHub account koristeći fakultetski email `@fer.hr`: [GitHub](https://github.com/)
+2. 🧑‍💻 Napravi GitHub account sa svojim emailom i kasnije dodaj svoj fakultetski email `@fer.hr`: [GitHub](https://github.com/)
 3. 🎥 Pogledaj vodič (do 42. minute):  
    [Git & GitHub Crash Course](https://www.youtube.com/watch?v=S7XpTAnSDL4)
 
